@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BotonLetraNIF</string>
+    <string name="title_activity_main">Calcular NIF</string>
+    <string name="dni_placeholder">DNI</string>
+    <string name="label_default_result">Sin Letra</string>
+    <string name="label_result">Resultado </string>
+</resources>
