@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alberto_P1_PMDM</string>
+    <string name="Text_fecha">Fecha</string>
+    <string name="Text_tiempo">Tiempo</string>
+    <string name="Text_distancia">Distancia</string>
+
+</resources>
